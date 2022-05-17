@@ -1,4 +1,7 @@
 
 *.zip
 *.ini
-*.csv
+
+DataSet/fraudTest.csv
+DataSet/fraudTrain.csv
+DataSet/creditcard.csv
