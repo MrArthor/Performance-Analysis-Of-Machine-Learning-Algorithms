@@ -1,7 +1,7 @@
 
 *.zip
 *.ini
-
+package-lock.json
 DataSet/fraudTest.csv
 DataSet/fraudTrain.csv
 DataSet/creditcard.csv
