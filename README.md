@@ -1,2 +1,8 @@
-# Performance-Analysis-Of-Machine-Learning-Algorithms
+# Statistical-Analysis-Of-Machine-Learning-Algorithms
  
+Machine learning (ML) is a scientific study of algorithms and statistical models that computer systems use to perform specific tasks that are not explicitly programmed. Learn algorithms in many of the applications we use every day. Every time a web search engine like Google is used to crawl the internet, one of the reasons it works so well is because of the learning algorithms that have learned how to rank web pages. These algorithms are used for a variety of purposes such as data mining, image processing, and predictive analytics. The main advantage of machine learning is that once an algorithm learns how to process data, it can do its job automatically. This white paper provided an overview and future outlook for a wide range of applications for machine learning algorithms. This project aims to statistically analyze different machine learning and deep learning algorithms, and compare and contrast their performance in
+credit card fraud detection.
+### The algorithms used are -
+Artificial Neural Networks(ANN), Support Vector Machine (SVM), Kth Nearest Neighbour (KNN), Decision Tree, Logistic Regression, Random Forest., and Adaboost.
+The usage of various imbalance learning techniques has been proposed for getting unbiased results without any key details being missed out or skipped because of the highly unbalanced datasets being available and present in real-world applications. The results of these algorithms are based on accuracy, precision, recall, and F1-score. Then, the ROC curve is plotted based on the confusion matrix. Finally, these algorithms are compared and the algorithm that has the greatest accuracy, precision, recall, and F1 score is considered the best algorithm that is used to detect fraud.
+Keywords: Imbalance Learning, Neural Networks, Support Vector Machine, KNN, Decision tree, Random Forest, Logistic Regression.
